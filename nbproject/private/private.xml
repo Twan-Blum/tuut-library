@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/Twan/Projects/Tuut/tuut/build.xml</file>
+            <file>file:/Users/Twan/Projects/Tuut/tuut/src/com/fontys/tuut/annotation/TUUTTest.java</file>
+            <file>file:/Users/Twan/Projects/Tuut/tuut/src/com/fontys/tuut/TestResult.java</file>
+            <file>file:/Users/Twan/Projects/Tuut/tuut/src/com/fontys/tuut/runner/Tuut.java</file>
+            <file>file:/Users/Twan/Projects/Tuut/tuut/src/com/fontys/tuut/annotation/Parser.java</file>
+            <file>file:/Users/Twan/Projects/Tuut/tuut/nbproject/build-impl.xml</file>
+            <file>file:/Users/Twan/Projects/Tuut/tuut/test/com/fontys/tuut/loader/DynamicFileObjectTest.java</file>
+            <file>file:/Users/Twan/Projects/Tuut/tuut/src/com/fontys/tuut/loader/DynamicFileObject.java</file>
+            <file>file:/Users/Twan/Projects/Tuut/tuut/src/com/fontys/tuut/TestBehavior.java</file>
+            <file>file:/Users/Twan/Projects/Tuut/tuut/src/com/fontys/tuut/annotation/TUUTTestConstructor.java</file>
+            <file>file:/Users/Twan/Projects/Tuut/tuut/src/com/fontys/tuut/Test.java</file>
+            <file>file:/Users/Twan/Projects/Tuut/tuut/src/com/fontys/tuut/annotation/ParseException.java</file>
+            <file>file:/Users/Twan/Projects/Tuut/tuut/src/com/fontys/tuut/runner/TuutException.java</file>
+            <file>file:/Users/Twan/Projects/Tuut/tuut/src/com/fontys/tuut/annotation/TUUTTestMethod.java</file>
+            <file>file:/Users/Twan/Projects/Tuut/tuut/test/com/fontys/tuut/annotation/ParserTest.java</file>
+            <file>file:/Users/Twan/Projects/Tuut/tuut/src/com/fontys/tuut/util/JavaFileFilter.java</file>
+            <file>file:/Users/Twan/Projects/Tuut/tuut/src/com/fontys/tuut/loader/DynamicClassLoader.java</file>
+            <file>file:/Users/Twan/Projects/Tuut/tuut/src/com/fontys/tuut/TestMethod.java</file>
+            <file>file:/Users/Twan/Projects/Tuut/tuut/src/com/fontys/tuut/TestConstructor.java</file>
+            <file>file:/Users/Twan/Projects/Tuut/tuut/src/com/fontys/tuut/compiler/SourceFileObject.java</file>
+            <file>file:/Users/Twan/Projects/Tuut/tuut/src/com/fontys/tuut/tester/TestClassEditor.java</file>
+            <file>file:/Users/Twan/Projects/Tuut/tuut/src/com/fontys/tuut/compiler/Compiler.java</file>
+            <file>file:/Users/Twan/Projects/Tuut/tuut/src/com/fontys/tuut/util/JavaFileParser.java</file>
+            <file>file:/Users/Twan/Projects/Tuut/tuut/src/com/fontys/tuut/loader/DynamicFileManager.java</file>
+            <file>file:/Users/Twan/Projects/Tuut/tuut/src/com/fontys/tuut/loader/DynamicFileObjectPool.java</file>
+            <file>file:/Users/Twan/Projects/Tuut/tuut/lib/nblibraries.properties</file>
+            <file>file:/Users/Twan/Projects/Tuut/tuut/src/com/fontys/tuut/tester/Tester.java</file>
+            <file>file:/Users/Twan/Projects/Tuut/tuut/src/com/fontys/tuut/tester/TestClassRunner.java</file>
+            <file>file:/Users/Twan/Projects/Tuut/tuut/src/com/fontys/tuut/runner/TuutEnvironment.java</file>
+            <file>file:/Users/Twan/Projects/Tuut/tuut/src/com/fontys/tuut/tester/TestException.java</file>
+        </group>
+    </open-files>
+</project-private>
